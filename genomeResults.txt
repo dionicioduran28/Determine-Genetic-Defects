@@ -1,0 +1,192 @@
+rs6684865	AG	1.2x risk of rheumatoid arthritis
+rs2003046	AC	0.75x lower risk of Male Pattern Baldness.
+rs6700125	CC	0.7x decreased risk for ALS
+rs6690993	AA	0.7x decreased risk for ALS
+rs8179183	CG	less likely to gain weight if taking risperidone
+rs599839	AG	1.3x increased risk for heart disease; slightly lower (0.8x) risk for abdominal aortic aneurysm
+rs6684439	CT	1.7x increased melanoma risk
+rs8192284	AC	1.7x increased melanoma risk
+rs3766379	CT	1.37x increased risk for rheumatoid arthritis
+rs6682654	AG	1.34x increased risk for rheumatoid arthritis
+rs28930069	GG	Hypokalemic periodic paralysis risk
+rs4950928	CG	Half the risk (maybe) of Asthma.
+rs1056836	GG	0.3x decreased risk for prostate cancer
+rs9282671	AA	small chance of slightly increasing risk for a form of glaucoma
+rs13429458	AC	0.67x Lower risk of PCOS for Han Chinese
+rs2024513	AG	1.3x higher risk for schizophrenia (among Han Chinese)
+rs16944	GG	Increased risk of mental disorders
+rs2056202	CC	common but increased risk of autism
+rs1045485	CG	slightly (0.89x) lowered risk for breast cancer
+rs28997576	CC	probably increased risk of breast cancer
+rs53576	GG	Optimistic and empathetic; handle stress well
+rs17036314	CG	risk of progressing from IGT to T2D; reduced by exercise
+rs1545985	AG	somewhat higher risk for prostate cancer
+rs7646054	AG	increased osteoporosis risk
+rs7611694	CC	Lower prostate cancer risk?
+rs1049296	CT	Heterozygote carrying both C1 and C2 transferrin subtypes; very slightly higher risk for Alzheimers
+rs6797312	AT	2x higher stroke risk in Caucasian women
+rs6807362	GG	decreased autism risk
+rs1470579	AC	1.2x increased risk for type-2 diabetes
+rs7647305	CC	Obesity risk
+rs9851967	TT	0.88x risk of vitiligo in Chinese
+rs16890979	CT	1.7x risk of gout
+rs7442295	AG	~2x higher risk for hyperuracemia
+rs4538475	AG	Slightly increased risk of developing Parkinson's Disease
+rs28936383	GG	Limb-girdle muscular dystrophy-dystroglycanopathy
+rs6812193	TT	Slightly decreased risk of developing Parkinson's Disease
+rs6837793	GG	more likely to gain weight if taking risperidone
+rs401681	CT	~1.2x increased risk for several types of cancer
+rs31489	AC	1.75-fold reduced risk of developing lung cancer
+rs1801394	GG	1.4x higher risk for meningiomas
+rs16891982	GG	Generally European; Light skin; Possibly an increased risk of melanoma
+rs3194051	AG	1.12x risk of type-1 diabetes
+rs17482078	CT	0.76x lower risk for spondylitis
+rs2287987	CT	0.71x lower risk for spondylitis
+rs2549782	GG	1.6x increased risk for preeclampsia in most populations
+rs1837253	CT	reduced risk (0.84x) for late-onset (adult) asthma
+rs2631367	CG	Increased risk for Crohn's Disease
+rs17166496	CG	0.8x risk for type-1 diabetes
+rs4624820	AG	1.37x increased testicular cancer risk for men
+rs6897876	CT	slight increase in testicular cancer risk for men
+rs2546890	AG	Higher risk of multiple sclerosis
+rs11746443	AG	1.19x risk of kidney stone in Japanese
+rs4712653	TT	2x increased risk for neuroblastoma
+rs1165205	AT	0.85x decreased gout risk
+rs4959039	AG	1.4x higher risk for multiple sclerosis
+rs1265181	GG	possibly increased risk of psoriasis
+rs1046089	GG	0.48x risk of malaria
+rs10947262	CC	1.3x increased risk for osteoarthritis
+rs660895	AG	possibly at 4x higher risk of [[rheumatoid arthritis]]
+rs9469220	AG	1.1x risk of Crohn's disease
+rs2296336	CG	1.3x risk of type-1 diabetes
+rs2653349	AG	~1.5x? increased risk for cluster headaches
+rs806380	AA	Normal genotype. slightly higher odds of cannabis dependence
+rs2802292	GG	1.5x~2.7x more likely to live to 100.
+rs6918698	GG	2.2x higher systemic sclerosis risk
+rs7753394	CC	1.5x risk of Crohn's disease
+rs6922269	AG	1.2x risk of coronary artery disease
+rs12173570	CT	 0.83x breast size (smaller breast size in female)
+rs4132601	GT	somewhat (1.7x) increased risk for acute lymphoblastic leukemia
+rs11974297	GG	Migraine
+rs1334512	GG	0.37x decreased risk for severe malaria
+rs7787082	GG	7x less likely to respond to certain antidepressants
+rs3914132	TT	Normal (not lower) otosclerosis risk
+rs1858830	CC	2x risk of autism
+rs713598	CG	Can taste bitter.
+rs7807268	CG	1.3x risk for Crohn's disease
+rs2515475	CT	1.27x increased ARDS risk in critically ill patients
+rs17482753	GT	elevated triglycerides
+rs12678919	AG	associated with higher HDL cholesterol
+rs7816345	CC	 bigger breast size (normal in European)
+rs9298506	AA	Higher Risk Aneurysm
+rs6983267	GT	1.3x risk of prostate cancer; aspirin reduces risk of colorectal cancer
+rs10088218	AG	0.76x decreased risk for ovarian cancer
+rs7027989	AA	1.26x increased myocardial infarction risk
+rs4977756	AG	1.2x higher risk for glioma development
+rs10757274	GG	~1.3x increased risk for heart disease
+rs1333049	CC	1.9x increased risk for CAD
+rs1800546	CC	0.35x reduced risk of Hereditary Fructose Intolerance.
+rs7868992	AG	1.29x risk of Tourette's Syndrome
+rs3761847	AG	1.32 x risk of rheumatoid arthritis.
+rs10818488	AG	1.4x increased risk for rheumatoid arthritis
+rs7853989	GG	Not blood group B
+rs61735045	AG	likely to be a benign variant
+rs1537415	CG	1.6x increased risk for periodontitis
+rs3793784	CG	1.5x risk for ARMD
+rs10993994	TT	increased prostate cancer risk (odds ratio 1.6)
+rs7089814	CC	 1.2 breast size (bigger breast size)
+rs10761659	AG	1.2x risk of Crohn's disease
+rs6583817	CT	~0.80x (lower) risk for late onset Alzheimer's disease
+rs2274223	GG	1.9x increased risk for stomach & esophageal cancer (seen in Han Chinese)
+rs1057910	AC	CYP2C9*3 carrier; average 40% reduction in warfarin metabolism
+rs10883365	GG	1.62x increased risk for developing Crohn's disease
+rs11190870	TT	Possibly even more increased risk of scoliosis
+rs4506565	AT	1.4x increased risk for type-2 diabetes
+rs12255372	GT	1.3x increased type-2 diabetes risk
+rs1801253	CC	responds well to bucindolol; may also depend on rs1801252
+rs2308327	AG	0.67x decreased risk for lung cancer
+rs1800955	CT	increased susceptibility to novelty seeking
+rs72921001	CC	More likely to think cilantro tastes like soap
+rs11037909	TT	1.47x type II diabetes risk
+rs1800169	GG	greater relative benefit of iloperidone to schizophrenics
+rs6591536	AA	less able to detect β-ionone (floral) fragrance
+rs10830963	GG	increased type-2 diabetes risk; higher gestational diabetes risk
+rs1144393	CC	1.3x risk of chronic kidney disease in Japanese
+rs664677	CC	Lower lung cancer and increased breast cancer risk
+rs4585	GG	slightly higher (1.35x) odds of good metformin response in type 2 diabetics
+rs7966230	GG	slightly lower levels of plasma VWF
+rs1805762	CC	>1.23x risk for hypertension
+rs11052552	GG	1.4x risk of type-1 diabetes
+rs10772420	AG	 Median more intense perception of quinine
+rs11045585	AA	24% chance (lower than average) of docetaxel-induced leukopenia/neutropenia
+rs2117032	CT	increase of 0.048 mg/dl in bilirubin levels
+rs1994090	GT	Slightly increased risk of developing Parkinson's Disease
+rs12304921	AG	2.5x risk type 2 diabetes
+rs10876864	AG	1.18x risk of vitiligo in Chinese
+rs1042725	CC	~0.8cm taller
+rs1495377	CG	1.3x risk  type-2 diabetes
+rs4565946	CC	Risk of early-onset OCD
+rs10859871	AC	Slight (~1.2x) increase in endometriosis risk
+rs11110912	CG	1.3x high blood pressure risk
+rs6539267	CT	0.79x risk of Tourette's syndrome
+rs17085007	TT	1x normal risk for ulcerative colitis
+rs9534262	CT	benign variant
+rs1012053	AA	Normal (higher) risk of Bipolar Disorder.
+rs4142110	CT	0.67x risk of kidney stone in Chinese
+rs7997012	AA	~18% more likely to respond to citalopram
+rs9543325	CC	1.37x Slightly higher pancreatic cancer risk
+rs225014	CT	Hypothyroid patients might benefit from combination T4/T3 therapy (?)
+rs179247	AA	Slight increase (1.4x) in risk for Graves disease
+rs17580	TT	a slightly reduced functionality form of Alpha-1 Antitrypsin Deficiency
+rs11622475	CC	1.5x risk of bipolar disorder
+rs4778241	CC	blue eye color if part of blue eye color haplotype
+rs4779584	CT	1.23x risk for colorectal cancer
+rs10468017	CT	associated with higher HDL cholesterol
+rs12593813	AG	0.71x risk for restless legs
+rs11635424	AG	0.70x risk for restless legs
+rs4489954	GT	0.69x risk risk of developing restless legs syndrome
+rs3784709	CT	0.71x risk of developing restless legs syndrome
+rs1026732	AG	0.70x risk for restless legs
+rs762551	AA	Fast Caffeine Metabolizer.
+rs6495446	CC	2.5x increased risk for chronic kidney disease
+rs3743930	CC	some reports of familial Mediterranean fever
+rs12708716	AA	1.6x risk of type-1 diabetes
+rs6498169	AG	1.14x risk of multiple sclerosis
+rs8050894	CG	average warfarin response (~5 mg/day)
+rs1421085	CC	~1.7x increased obesity risk
+rs1558902	AA	 Higher BMI than normal
+rs17817449	GG	~1.7x increased obesity risk
+rs9939609	AA	obesity risk and 1.6x risk for T2D
+rs16953002	AG	1.16x increased risk of melanoma in indiiduals with low BMI
+rs183130	CT	lower HDL cholesterol
+rs885479	GG	darker skin color
+rs4785763	AC	1.5x higher risk for melanoma
+rs12150220	AT	slightly increased risk for several autoimmune diseases
+rs7221412	AA	Early riser. Wakes up 1 hour earlier than those with GG genotype.
+rs4273077	AA	Normal risk for development of MGUS
+rs9303277	TT	1.46x Increased risk of developing primary biliary cirrhosis
+rs393152	AA	Increased risk of both PD and AD
+rs4794067	TT	Lower risk of Aspirin Induced Asthma. Normal (higher) risk of lupus and intractable Grave's Disease.
+rs8085664	CC	Normal (higher) risk of Male Pattern Baldness.
+rs4939827	TT	1x risk for colorectal cancer
+rs2305795	AG	1.28x higher risk of narcolepsy compared to (G;G) genotype
+rs5496	GG	Ancestral Genotype
+rs11881940	AT	1.9x risk of MI
+rs11672691	GG	1.39x increased risk for PCSM in patients with prostate cancer
+rs449647	AA	lower levels of ApoE
+rs7412	CC	more likely to gain weight if taking olanzapine
+rs1047781	AA	ABH blood group Secretor status if Japanese
+rs602662	GG	Lower vitamin B12 levels
+rs11538758	CC	PrP codon P105 - Non-pathogenic form
+rs16990018	AA	PrP Codon 171 Asn - Non-pathogenic variant
+rs28933385	GG	Prion protein Codon 200 (E) - Non pathogenic variant
+rs1160312	GG	Reduced risk of Baldness.
+rs4911414	GT	2-4x higher risk of sun sensitivity if part of risk haplotype
+rs3843763	CC	Normal (higher) HDL Good Cholesterol.
+rs2837960	GG	2.3x rheumatoid arthritis risk
+rs234706	AG	0.94 reduced risk of cleft lip / palate
+rs4633	CT	higher risk for endometrial cancer
+rs140504	AG	1.4x increased risk for bipolar disorder
+rs12484776	AG	1.23 Risk of UF for Japanese for G Allele
+rs5770917	CT	1.4x increased risk for narcolepsy
+rs4129148	CG	3x risk of schizophrenia.
